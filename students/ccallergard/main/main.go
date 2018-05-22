@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cises/sitemap"
 	"fmt"
+	"github.com/gophercises/sitemap/students/ccallergard"
 	"log"
 	"os"
 )
